@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "constraints": {
+    "jenkins": "2.580.1"
+  },
+  "constraintsFiltering": "strict"
+}
