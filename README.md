@@ -4,7 +4,7 @@ Minimal reproduction: `constraintsFiltering: "strict"` with a `jenkins` constrai
 
 ## Current behavior
 
-No updates are proposed. Debug logs show `Invalid release constraint` with `"versioning": "maven"` and `"constraint": ">=2.541.3"` for every release.
+No updates are proposed. Debug logs show `Invalid release constraint` with `"versioning": "maven"` and `"constraint": ">=1.575"` for every release.
 
 ## Expected behavior
 
